@@ -1,6 +1,6 @@
 {
   "name": "rabbit-retry",
-  "version": "1.4.3",
+  "version": "1.0.0",
   "description": "RabbitMQ wrapper for amqp reconnection library that has improved reconnection capabilities.",
   "author": "Marko Kovacevic",
   "private": false,
