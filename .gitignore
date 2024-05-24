@@ -1,0 +1,9 @@
+.idea
+node_modules
+.vscode
+cobertura-coverage.xml
+.nyc_output
+coverage/
+junit.xml
+*.DS_Store
+*.iml
