@@ -1,0 +1,5 @@
+build
+coverage
+dist
+cobertura-coverage.xml
+junit.xml
